@@ -2,10 +2,10 @@
 title: Caroline McFarlane Artist
 email: caroline@carolinesart.com
 description: A basic description
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-# url: "scottmackinlay.com" # the base hostname & protocol for your site
+baseurl: "/carolinesart" # the subpath of your site, e.g. /blog
+url: "https://flipdazed.github.io" # the base hostname & protocol for your site
 github_username:  flipdazed
-linkedin_username: LinkedIn
+linkedin_username: caroline-mcfarlane-9451a222
 
 # Build settings
 markdown: kramdown
