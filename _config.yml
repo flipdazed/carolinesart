@@ -3,7 +3,7 @@ title: Caroline McFarlane Artist
 email: caroline@carolinesart.com
 description: A basic description
 baseurl: "/carolinesart" # the subpath of your site, e.g. /blog
-url: "https://flipdazed.github.io" # the base hostname & protocol for your site
+# url: "https://flipdazed.github.io" # the base hostname & protocol for your site
 github_username:  flipdazed
 linkedin_username: caroline-mcfarlane-9451a222
 
